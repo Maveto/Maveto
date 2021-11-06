@@ -1,5 +1,15 @@
-### Hi there 👋
 
+# :computer: Hi :wave: I'm Mauricio Vejarano but you can call me Mauri or Maveto
+
+i'm a computer systems engineer student at [UPB](https://www.upb.edu):mortar_board:.
+
+I like programming in ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white) and ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white). I also worked with ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white).
+
+The languages I use the most are:
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maveto&theme=tokyonight" alt="Top Langs"/> </p>
+
+As hobby i like to learn new things like ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white), ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black), new programming languages:computer: and new languages:earth_americas:. 
 <!--
 **Maveto/Maveto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
